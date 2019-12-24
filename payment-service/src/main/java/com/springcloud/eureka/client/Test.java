@@ -23,7 +23,7 @@ public class Test {
 		 * (str.equalsIgnoreCase("sai")) { System.out.println("bala"); }else {
 		 * System.out.println("snapwork"); }
 		 */
-    	
+    	System.out.println("vinod");
     	
     }
 }
