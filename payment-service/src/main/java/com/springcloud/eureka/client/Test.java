@@ -24,5 +24,7 @@ public class Test {
 		 * System.out.println("snapwork"); }
 		 */
     	
+    	System.out.println("vinod");
+    	
     }
 }
