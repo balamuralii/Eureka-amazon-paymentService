@@ -23,6 +23,8 @@ public class Test implements Comparator{
 	bookArrList.add(new Book("gan","9"));
 	System.out.println("added 10");
 	
+	System.out.println("added 11");
+	
 	
 	
 	
