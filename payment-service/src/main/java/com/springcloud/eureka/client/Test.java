@@ -20,6 +20,8 @@ public class Test implements Comparator{
 	bookArrList.add(new Book("gan","6"));
 	bookArrList.add(new Book("gan","7"));
 	bookArrList.add(new Book("gan","8"));
+	bookArrList.add(new Book("gan","9"));
+	
 	
 	
 	
