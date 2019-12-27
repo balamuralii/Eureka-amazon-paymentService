@@ -30,6 +30,9 @@ public class Test implements Comparator{
 	System.out.println("added 12 ");
 
 	
+	System.out.println("added 20");
+	System.out.println("added 21 ");
+	
 	
 	
 	
